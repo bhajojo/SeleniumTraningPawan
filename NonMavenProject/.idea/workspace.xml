@@ -2,11 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eda2f680-d08f-457c-af68-c7f8d6788473" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/byte_buddy_1_8_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Scenario_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Scenario_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Scenario_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MavenProject/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MavenProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MavenProject/MavenProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MavenProject/src/test/java/SeleniumFirstClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_3/CheckBoxDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_3/ListBoxDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_3/RadioButtonsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NonMavenProject/Scenario_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NonMavenProject/Scenario_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NonMavenProject/Scenario_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Scenario_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day_2/Scenario_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Scenario_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day_2/Scenario_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Scenario_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day_2/Scenario_3.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,10 +30,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Scenario_1.java">
+        <entry file="file://$PROJECT_DIR$/src/Day_2/Scenario_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            <state relative-caret-position="154">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -33,10 +42,61 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Scenario_2.java">
+        <entry file="file://$PROJECT_DIR$/src/Day_2/Scenario_2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+            <state relative-caret-position="154">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Day_2/Scenario_3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Day_3/CheckBoxDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-88">
+              <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../selenium-java-3.141.59/client-combined-3.141.59-sources.jar!/org/openqa/selenium/WebDriver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="215">
+              <caret line="92" column="17" selection-start-line="92" selection-start-column="7" selection-end-line="92" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../selenium-java-3.141.59/client-combined-3.141.59-sources.jar!/org/openqa/selenium/WebElement.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="49" column="10" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Day_3/RadioButtonsDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="67" column="5" selection-start-line="8" selection-start-column="3" selection-end-line="67" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -45,13 +105,35 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Scenario_3.java">
+        <entry file="file://$PROJECT_DIR$/src/Day_3/ListBoxDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="28" column="58" lean-forward="true" selection-start-line="28" selection-start-column="58" selection-end-line="28" selection-end-column="79" />
+            <state relative-caret-position="242">
+              <caret line="17" column="90" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="17" selection-end-column="90" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../selenium-java-3.141.59/client-combined-3.141.59-sources.jar!/org/openqa/selenium/chrome/ChromeDriver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="213">
+              <caret line="107" column="42" selection-start-line="107" selection-start-column="34" selection-end-line="107" selection-end-column="49" />
+              <folding>
+                <element signature="e#4639#4640#0" expanded="true" />
+                <element signature="e#4718#4719#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../selenium-java-3.141.59/client-combined-3.141.59-sources.jar!/org/openqa/selenium/remote/RemoteWebDriver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2706">
+              <caret line="280" column="57" selection-start-line="280" selection-start-column="57" selection-end-line="280" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -65,6 +147,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>get</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -74,6 +161,11 @@
         <option value="$PROJECT_DIR$/src/SeleniumScript_1.java" />
         <option value="$PROJECT_DIR$/src/Scenario_2.java" />
         <option value="$PROJECT_DIR$/src/Scenario_3.java" />
+        <option value="$PROJECT_DIR$/src/Day_2/Scenario_3.java" />
+        <option value="$PROJECT_DIR$/src/Day_3/Scenario_1.java" />
+        <option value="$PROJECT_DIR$/src/Day_3/CheckBoxDemo.java" />
+        <option value="$PROJECT_DIR$/src/Day_3/RadioButtonsDemo.java" />
+        <option value="$PROJECT_DIR$/src/Day_3/ListBoxDemo.java" />
       </list>
     </option>
   </component>
@@ -88,8 +180,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -100,17 +190,46 @@
             <path>
               <item name="NonMavenProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="NonMavenProject" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NonMavenProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NonMavenProject" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="NonMavenProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="NonMavenProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="NonMavenProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NonMavenProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Day_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NonMavenProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NonMavenProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Day_3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NonMavenProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="NonMavenProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="byte-buddy-1.8.15" type="70bed36:NamedLibraryElementNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -120,6 +239,11 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Day_3" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -133,23 +257,55 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Scenario_3">
-    <configuration name="Scenario_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Scenario_1" />
+  <component name="RunManager" selected="Application.ListBoxDemo">
+    <configuration name="CheckBoxDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day_3.CheckBoxDemo" />
       <module name="NonMavenProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListBoxDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day_3.ListBoxDemo" />
+      <module name="NonMavenProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RadioButtonsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day_3.RadioButtonsDemo" />
+      <module name="NonMavenProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Scenario_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Scenario_2" />
+      <option name="MAIN_CLASS_NAME" value="Day_2.Scenario_2" />
       <module name="NonMavenProject" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Scenario_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Scenario_3" />
+      <option name="MAIN_CLASS_NAME" value="Day_2.Scenario_3" />
       <module name="NonMavenProject" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -157,9 +313,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ListBoxDemo" />
+        <item itemvalue="Application.RadioButtonsDemo" />
+        <item itemvalue="Application.CheckBoxDemo" />
         <item itemvalue="Application.Scenario_3" />
         <item itemvalue="Application.Scenario_2" />
-        <item itemvalue="Application.Scenario_1" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +334,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25472972" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26891893" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -185,8 +343,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3298969" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3298969" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39911634" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -204,31 +362,102 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Day_3/CheckBoxDemo.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Scenario_1.java">
+    <entry file="file://$PROJECT_DIR$/src/Day_2/Scenario_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="154">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Scenario_2.java">
+    <entry file="file://$PROJECT_DIR$/src/Day_2/Scenario_2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        <state relative-caret-position="154">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Scenario_3.java">
+    <entry file="file://$PROJECT_DIR$/src/Day_2/Scenario_3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="28" column="58" lean-forward="true" selection-start-line="28" selection-start-column="58" selection-end-line="28" selection-end-column="79" />
+        <state relative-caret-position="154">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../selenium-java-3.141.59/client-combined-3.141.59-sources.jar!/org/openqa/selenium/chrome/ChromeDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="107" column="42" selection-start-line="107" selection-start-column="34" selection-end-line="107" selection-end-column="49" />
+          <folding>
+            <element signature="e#4639#4640#0" expanded="true" />
+            <element signature="e#4718#4719#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../selenium-java-3.141.59/client-combined-3.141.59-sources.jar!/org/openqa/selenium/remote/RemoteWebDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2706">
+          <caret line="280" column="57" selection-start-line="280" selection-start-column="57" selection-end-line="280" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../selenium-java-3.141.59/client-combined-3.141.59-sources.jar!/org/openqa/selenium/WebElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="49" column="10" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../selenium-java-3.141.59/client-combined-3.141.59-sources.jar!/org/openqa/selenium/WebDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="92" column="17" selection-start-line="92" selection-start-column="7" selection-end-line="92" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day_3/CheckBoxDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-88">
+          <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day_3/RadioButtonsDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="67" column="5" selection-start-line="8" selection-start-column="3" selection-end-line="67" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day_3/ListBoxDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="17" column="90" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="17" selection-end-column="90" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
