@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eda2f680-d08f-457c-af68-c7f8d6788473" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../MavenProject/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MavenProject/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MavenProject/MavenProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MavenProject/src/test/java/SeleniumFirstClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day_3/CheckBoxDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day_3/ListBoxDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day_3/RadioButtonsDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NonMavenProject/Scenario_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NonMavenProject/Scenario_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NonMavenProject/Scenario_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Scenario_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day_2/Scenario_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Scenario_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day_2/Scenario_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Scenario_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day_2/Scenario_3.java" afterDir="false" />
-    </list>
+    <list default="true" id="eda2f680-d08f-457c-af68-c7f8d6788473" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +53,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Day_3/CheckBoxDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-88">
+            <state relative-caret-position="44">
               <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
             </state>
           </provider>
@@ -77,7 +62,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$PROJECT_DIR$/../../selenium-java-3.141.59/client-combined-3.141.59-sources.jar!/org/openqa/selenium/WebDriver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
+            <state relative-caret-position="1562">
               <caret line="92" column="17" selection-start-line="92" selection-start-column="7" selection-end-line="92" selection-end-column="17" />
             </state>
           </provider>
@@ -86,7 +71,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$PROJECT_DIR$/../../selenium-java-3.141.59/client-combined-3.141.59-sources.jar!/org/openqa/selenium/WebElement.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
+            <state relative-caret-position="748">
               <caret line="49" column="10" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="10" />
             </state>
           </provider>
@@ -95,7 +80,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Day_3/RadioButtonsDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
+            <state relative-caret-position="1430">
               <caret line="67" column="5" selection-start-line="8" selection-start-column="3" selection-end-line="67" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -108,7 +93,7 @@
         <entry file="file://$PROJECT_DIR$/src/Day_3/ListBoxDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="242">
-              <caret line="17" column="90" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="17" selection-end-column="90" />
+              <caret line="17" column="90" selection-start-line="11" selection-start-column="8" selection-end-line="17" selection-end-column="90" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -119,7 +104,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$PROJECT_DIR$/../../selenium-java-3.141.59/client-combined-3.141.59-sources.jar!/org/openqa/selenium/chrome/ChromeDriver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
+            <state relative-caret-position="1628">
               <caret line="107" column="42" selection-start-line="107" selection-start-column="34" selection-end-line="107" selection-end-column="49" />
               <folding>
                 <element signature="e#4639#4640#0" expanded="true" />
@@ -132,7 +117,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$PROJECT_DIR$/../../selenium-java-3.141.59/client-combined-3.141.59-sources.jar!/org/openqa/selenium/remote/RemoteWebDriver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2706">
+            <state relative-caret-position="3894">
               <caret line="280" column="57" selection-start-line="280" selection-start-column="57" selection-end-line="280" selection-end-column="57" />
             </state>
           </provider>
@@ -180,6 +165,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -228,8 +215,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -334,7 +319,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26891893" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27364865" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -405,9 +390,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day_3/CheckBoxDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../selenium-java-3.141.59/client-combined-3.141.59-sources.jar!/org/openqa/selenium/WebDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1562">
+          <caret line="92" column="17" selection-start-line="92" selection-start-column="7" selection-end-line="92" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../selenium-java-3.141.59/client-combined-3.141.59-sources.jar!/org/openqa/selenium/WebElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="49" column="10" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day_3/RadioButtonsDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1430">
+          <caret line="67" column="5" selection-start-line="8" selection-start-column="3" selection-end-line="67" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://$PROJECT_DIR$/../../selenium-java-3.141.59/client-combined-3.141.59-sources.jar!/org/openqa/selenium/chrome/ChromeDriver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
+        <state relative-caret-position="1628">
           <caret line="107" column="42" selection-start-line="107" selection-start-column="34" selection-end-line="107" selection-end-column="49" />
           <folding>
             <element signature="e#4639#4640#0" expanded="true" />
@@ -418,46 +434,15 @@
     </entry>
     <entry file="jar://$PROJECT_DIR$/../../selenium-java-3.141.59/client-combined-3.141.59-sources.jar!/org/openqa/selenium/remote/RemoteWebDriver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2706">
+        <state relative-caret-position="3894">
           <caret line="280" column="57" selection-start-line="280" selection-start-column="57" selection-end-line="280" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../selenium-java-3.141.59/client-combined-3.141.59-sources.jar!/org/openqa/selenium/WebElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="49" column="10" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../selenium-java-3.141.59/client-combined-3.141.59-sources.jar!/org/openqa/selenium/WebDriver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="92" column="17" selection-start-line="92" selection-start-column="7" selection-end-line="92" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Day_3/CheckBoxDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-88">
-          <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Day_3/RadioButtonsDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="67" column="5" selection-start-line="8" selection-start-column="3" selection-end-line="67" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Day_3/ListBoxDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
-          <caret line="17" column="90" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="17" selection-end-column="90" />
+          <caret line="17" column="90" selection-start-line="11" selection-start-column="8" selection-end-line="17" selection-end-column="90" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
