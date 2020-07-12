@@ -1,5 +1,6 @@
-package Day_4;
+package Day_5;
 
+import Day_4.functionClass;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterClass;

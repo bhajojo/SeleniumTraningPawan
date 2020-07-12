@@ -2,6 +2,7 @@ package Day_4;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
@@ -21,12 +22,18 @@ public class SecondTestNGExample {
     public void runTest()
     {
         functionClass rc= new functionClass();
-        rc.verfiySummation(wbDriver);
+//        rc.verfiySummation(wbDriver);
         rc.verifyTable(wbDriver);
-        rc.ListboxDemo(wbDriver);
-        rc.verifyCheckBoxDemo(wbDriver);
-        rc.verifyTableRecordFilter(wbDriver);
-        rc.RadioButtonDemo(wbDriver);
+//        rc.ListboxDemo(wbDriver);
+//        rc.verifyCheckBoxDemo(wbDriver);
+//        rc.verifyTableRecordFilter(wbDriver);
+//        rc.RadioButtonDemo(wbDriver);
+    }
+
+    @AfterClass
+    public void CloseWebDriver()
+    {
+        wbDriver.close();
     }
 
 
