@@ -1,32 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b76d781f-3528-4e62-b45e-c567605604d2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day_5/BasicDataProviderExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day_5/DP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day_5/DPWithMethodParameter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day_5/DataProviderVariant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day_5/DataProviderWithExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day_5/GroupsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day_5/InheritedDataProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day_5/MultipleDataPrvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day_5/ParallelMethodTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day_5/TestNGDemoClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day_5/TestNgAdvanceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day_5/ThirdTestNGExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day_5.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_5.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Day_4/FirstTestNGExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Day_4/FirstTestNGExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Day_4/SecondTestNGExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Day_4/SecondTestNGExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Day_4/TestNGDemoClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Day_4/TestNGDemoClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Day_4/ThirdTestNGExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Day_4/ThirdTestNGExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Day_4/FirstTestNGExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day_4/FirstTestNGExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Day_4/SecondTestNGExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day_4/SecondTestNGExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Day_4/TestNGDemoClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day_4/TestNGDemoClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Day_4/ThirdTestNGExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day_4/ThirdTestNGExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testNG.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testNG.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b76d781f-3528-4e62-b45e-c567605604d2" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,8 +36,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/Day_5/TestNGDemoClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-330">
-              <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+            <state relative-caret-position="154">
+              <caret line="43" column="21" lean-forward="true" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
               <folding>
                 <element signature="e#137#138#0" expanded="true" />
                 <element signature="e#197#198#0" expanded="true" />
@@ -473,7 +448,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.58615613" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.58615613" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39911634" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -809,8 +784,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Day_5/TestNGDemoClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-330">
-          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        <state relative-caret-position="154">
+          <caret line="43" column="21" lean-forward="true" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
           <folding>
             <element signature="e#137#138#0" expanded="true" />
             <element signature="e#197#198#0" expanded="true" />
