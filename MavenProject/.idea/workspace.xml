@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b76d781f-3528-4e62-b45e-c567605604d2" name="Default Changelist" comment="" />
+    <list default="true" id="b76d781f-3528-4e62-b45e-c567605604d2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day_6/HandleDragAndDropNewSite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day_6/HandleDragAndDropSeleniumEasy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day_6/HandleDragDropExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day_6/HandlingLinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day_6/HandlingLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day_6/HandlingListsMultipleSelect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day_6/HandlingTableWithPagination.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day_6.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_6.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,47 +26,64 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testNG.xml">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Day_6/HandlingLinks.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-25">
-              <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+            <state relative-caret-position="132">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Day_5/ThirdTestNGExample.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Day_6/HandlingTableWithPagination.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+            <state relative-caret-position="286">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Day_6/HandlingLists.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="638">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Day_6/HandleDragAndDropNewSite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="17" column="98" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="98" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Day_6/HandleDragAndDropSeleniumEasy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="616">
+              <caret line="35" column="27" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Day_5/TestNGDemoClass.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Day_6/HandleDragDropExample3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="43" column="21" lean-forward="true" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
-              <folding>
-                <element signature="e#137#138#0" expanded="true" />
-                <element signature="e#197#198#0" expanded="true" />
-                <element signature="e#888#889#0" expanded="true" />
-                <element signature="e#948#949#0" expanded="true" />
-                <element signature="e#1005#1006#0" expanded="true" />
-                <element signature="e#1064#1065#0" expanded="true" />
-                <element signature="e#1120#1121#0" expanded="true" />
-                <element signature="e#1180#1181#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Day_5/DataProviderVariant.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="45" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="45" />
+            <state relative-caret-position="136">
+              <caret line="25" column="33" lean-forward="true" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -65,83 +92,45 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Day_5/InheritedDataProvider.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="39">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <element signature="e#205#206#0" expanded="true" />
-                <element signature="e#274#275#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Day_5/DP.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Day_6/HandlingListsMultipleSelect.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="308">
-              <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#272#273#0" expanded="true" />
-                <element signature="e#363#364#0" expanded="true" />
-                <element signature="e#445#446#0" expanded="true" />
-                <element signature="e#536#537#0" expanded="true" />
-                <element signature="e#615#616#0" expanded="true" />
-                <element signature="e#706#707#0" expanded="true" />
-              </folding>
+              <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Day_5/MultipleDataPrvider.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Day_4/SecondTestNGExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="11" column="16" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Day_2/Scenario_1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="95" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Day_4/functionClass.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+              <caret line="37" selection-start-line="36" selection-start-column="8" selection-end-line="37" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#242#243#0" expanded="true" />
-                <element signature="e#320#321#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Day_5/DataProviderWithExcel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="43" lean-forward="true" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
-              <folding>
-                <element signature="e#3001#3002#0" expanded="true" />
-                <element signature="e#3038#3039#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Day_5/DPWithMethodParameter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/reflect/Method.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="192" column="18" selection-start-line="192" selection-start-column="18" selection-end-line="192" selection-end-column="18" />
-              <folding>
-                <element signature="e#6222#6223#0" expanded="true" />
-                <element signature="e#6249#6250#0" expanded="true" />
+                <element signature="method#verfiySummation#0;class#functionClass#0" />
+                <element signature="method#verifyTableRecordFilter#0;class#functionClass#0" />
+                <element signature="e#3055#3098#0" />
+                <element signature="e#3130#3174#0" />
+                <element signature="method#verifyCheckBoxDemo#0;class#functionClass#0" />
+                <element signature="method#ListboxDemo#0;class#functionClass#0" />
               </folding>
             </state>
           </provider>
@@ -192,6 +181,14 @@
         <option value="$PROJECT_DIR$/testNG.xml" />
         <option value="$PROJECT_DIR$/src/test/java/Day_5/ThirdTestNGExample.java" />
         <option value="$PROJECT_DIR$/src/test/java/Day_5/TestNGDemoClass.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Day_6/HandlingLinks.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Day_6/HandlingTableWithPagination.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Day_6/HandlingListsMultipleSelect.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Day_6/HandlingLists.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Day_6/HandleDragAndDrop.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Day_6/HandleDragAndDropNewSite.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Day_6/HandleDragAndDropSeleniumEasy.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Day_6/HandleDragDropExample3.java" />
       </list>
     </option>
   </component>
@@ -230,8 +227,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -263,20 +258,19 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Day_4" type="462c0819:PsiDirectoryNode" />
+              <item name="Day_6" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MavenProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="MavenProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Day_5" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -286,6 +280,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Day_6" />
       <recent name="Day_5" />
       <recent name="Day_4" />
     </key>
@@ -305,27 +300,30 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestNGDemoClass (1)">
-    <configuration name="D:/Training/SeleniumTraining_Pawan/MavenProject/testNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.HandleDragDropExample3">
+    <configuration name="HandleDragDropExample3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day_6.HandleDragDropExample3" />
       <module name="MavenProject" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testNG.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day_6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataProviderWithExcel" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="HandleDragAndDropNewSite" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MavenProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day_5.*" />
+          <option name="PATTERN" value="Day_6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Day_5" />
-      <option name="MAIN_CLASS_NAME" value="Day_5.DataProviderWithExcel" />
+      <option name="PACKAGE_NAME" value="Day_6" />
+      <option name="MAIN_CLASS_NAME" value="Day_6.HandleDragAndDropNewSite" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -333,51 +331,54 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InheritedDataProvider" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="HandleDragAndDropNewSite.HandleDragAndDrop" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MavenProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day_5.*" />
+          <option name="PATTERN" value="Day_6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Day_5" />
-      <option name="MAIN_CLASS_NAME" value="Day_5.InheritedDataProvider" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PACKAGE_NAME" value="Day_6" />
+      <option name="MAIN_CLASS_NAME" value="Day_6.HandleDragAndDropNewSite" />
+      <option name="METHOD_NAME" value="HandleDragAndDrop" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestNGDemoClass (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="HandleDragAndDropSeleniumEasy.HandleDragAndDrop" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MavenProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day_5.*" />
+          <option name="PATTERN" value="Day_6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Day_5" />
-      <option name="MAIN_CLASS_NAME" value="Day_5.TestNGDemoClass" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PACKAGE_NAME" value="Day_6" />
+      <option name="MAIN_CLASS_NAME" value="Day_6.HandleDragAndDropSeleniumEasy" />
+      <option name="METHOD_NAME" value="HandleDragAndDrop" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestNGDemoClass" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="HandleDragAndDrop.HandleDragAndDrop" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MavenProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day_5.*" />
+          <option name="PATTERN" value="Day_6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Day_5" />
-      <option name="MAIN_CLASS_NAME" value="Day_5.TestNGDemoClass" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PACKAGE_NAME" value="Day_6" />
+      <option name="MAIN_CLASS_NAME" value="Day_6.HandleDragAndDrop" />
+      <option name="METHOD_NAME" value="HandleDragAndDrop" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -386,11 +387,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestNGDemoClass (1)" />
-        <item itemvalue="TestNG.TestNGDemoClass" />
-        <item itemvalue="TestNG.D:/Training/SeleniumTraining_Pawan/MavenProject/testNG.xml" />
-        <item itemvalue="TestNG.DataProviderWithExcel" />
-        <item itemvalue="TestNG.InheritedDataProvider" />
+        <item itemvalue="Application.HandleDragDropExample3" />
+        <item itemvalue="TestNG.HandleDragAndDropSeleniumEasy.HandleDragAndDrop" />
+        <item itemvalue="TestNG.HandleDragAndDropNewSite.HandleDragAndDrop" />
+        <item itemvalue="TestNG.HandleDragAndDrop.HandleDragAndDrop" />
+        <item itemvalue="TestNG.HandleDragAndDropNewSite" />
       </list>
     </recent_temporary>
   </component>
@@ -405,41 +406,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DPWithMethodParameter - 2020.07.12 at 14h 50m 58s.xml">
-      <configuration name="DPWithMethodParameter" configurationId="TestNG" />
+    <history-entry file="HandleDragAndDropSeleniumEasy_HandleDragAndDrop - 2020.07.18 at 17h 52m 58s.xml">
+      <configuration name="HandleDragAndDropSeleniumEasy.HandleDragAndDrop" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="InheritedDataProvider - 2020.07.12 at 14h 57m 27s.xml">
-      <configuration name="InheritedDataProvider" configurationId="TestNG" />
+    <history-entry file="HandleDragAndDropSeleniumEasy_HandleDragAndDrop - 2020.07.18 at 18h 00m 43s.xml">
+      <configuration name="HandleDragAndDropSeleniumEasy.HandleDragAndDrop" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="InheritedDataProvider - 2020.07.12 at 14h 57m 44s.xml">
-      <configuration name="InheritedDataProvider" configurationId="TestNG" />
+    <history-entry file="HandleDragAndDropSeleniumEasy_HandleDragAndDrop - 2020.07.18 at 18h 03m 18s.xml">
+      <configuration name="HandleDragAndDropSeleniumEasy.HandleDragAndDrop" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="InheritedDataProvider - 2020.07.12 at 14h 58m 13s.xml">
-      <configuration name="InheritedDataProvider" configurationId="TestNG" />
+    <history-entry file="HandleDragAndDropSeleniumEasy - 2020.07.18 at 18h 05m 10s.xml">
+      <configuration name="HandleDragAndDropSeleniumEasy" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="DataProviderWithExcel - 2020.07.12 at 15h 04m 41s.xml">
-      <configuration name="DataProviderWithExcel" configurationId="TestNG" />
+    <history-entry file="HandleDragAndDropNewSite - 2020.07.18 at 18h 10m 02s.xml">
+      <configuration name="HandleDragAndDropNewSite" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="DataProviderWithExcel - 2020.07.12 at 15h 06m 15s.xml">
-      <configuration name="DataProviderWithExcel" configurationId="TestNG" />
+    <history-entry file="HandleDragAndDropNewSite_HandleDragAndDrop - 2020.07.18 at 18h 11m 26s.xml">
+      <configuration name="HandleDragAndDropNewSite.HandleDragAndDrop" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="D__Training_SeleniumTraining_Pawan_MavenProject_testNG_xml - 2020.07.12 at 15h 08m 18s.xml">
-      <configuration name="D:/Training/SeleniumTraining_Pawan/MavenProject/testNG.xml" configurationId="TestNG" />
+    <history-entry file="HandleDragAndDropSeleniumEasy_HandleDragAndDrop - 2020.07.18 at 18h 12m 37s.xml">
+      <configuration name="HandleDragAndDropSeleniumEasy.HandleDragAndDrop" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="D__Training_SeleniumTraining_Pawan_MavenProject_testNG_xml - 2020.07.12 at 15h 09m 18s.xml">
-      <configuration name="D:/Training/SeleniumTraining_Pawan/MavenProject/testNG.xml" configurationId="TestNG" />
+    <history-entry file="HandleDragAndDrop_HandleDragAndDrop - 2020.07.18 at 18h 14m 00s.xml">
+      <configuration name="HandleDragAndDrop.HandleDragAndDrop" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="D__Training_SeleniumTraining_Pawan_MavenProject_testNG_xml - 2020.07.12 at 15h 10m 57s.xml">
-      <configuration name="D:/Training/SeleniumTraining_Pawan/MavenProject/testNG.xml" configurationId="TestNG" />
+    <history-entry file="HandleDragAndDropNewSite_HandleDragAndDrop - 2020.07.18 at 18h 18m 19s.xml">
+      <configuration name="HandleDragAndDropNewSite.HandleDragAndDrop" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestNGDemoClass_(1) - 2020.07.12 at 15h 14m 58s.xml">
-      <configuration name="TestNGDemoClass (1)" configurationId="TestNG" />
+    <history-entry file="HandleDragAndDropSeleniumEasy_HandleDragAndDrop - 2020.07.18 at 18h 22m 33s.xml">
+      <configuration name="HandleDragAndDropSeleniumEasy.HandleDragAndDrop" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2614865" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27094594" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -466,34 +468,6 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26216215" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.7349043" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39911634" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3298969" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3298969" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" weight="0.32972974" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout-to-restore>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -534,13 +508,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1166">
           <caret line="55" selection-start-line="17" selection-start-column="6" selection-end-line="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Day_2/Scenario_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="22" column="9" selection-start-line="14" selection-start-column="8" selection-end-line="22" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -592,66 +559,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Day_4/FirstTestNGExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="17" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Day_4/functionClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="217" column="13" selection-start-line="217" selection-start-column="13" selection-end-line="217" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#verfiySummation#0;class#functionClass#0" />
-            <element signature="method#verifyTableRecordFilter#0;class#functionClass#0" />
-            <element signature="e#3055#3098#0" />
-            <element signature="e#3130#3174#0" />
-            <element signature="method#verifyCheckBoxDemo#0;class#functionClass#0" />
-            <element signature="method#ListboxDemo#0;class#functionClass#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Day_4/RunnerClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Day_4/SecondTestNGExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Day_4/ThirdTestNGExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="407">
           <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Day_4/TestNGDemoClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="38" column="30" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="30" />
-          <folding>
-            <element signature="e#371#372#0" expanded="true" />
-            <element signature="e#432#433#0" expanded="true" />
-            <element signature="e#605#606#0" expanded="true" />
-            <element signature="e#665#666#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -687,43 +598,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/testNG.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Day_5/ThirdTestNGExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Day_5/DataProviderVariant.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="45" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/reflect/Method.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="192" column="18" selection-start-line="192" selection-start-column="18" selection-end-line="192" selection-end-column="18" />
-          <folding>
-            <element signature="e#6222#6223#0" expanded="true" />
-            <element signature="e#6249#6250#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Day_5/MultipleDataPrvider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Day_5/DPWithMethodParameter.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <caret line="10" column="45" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -732,27 +624,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Day_5/InheritedDataProvider.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="39">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#205#206#0" expanded="true" />
-            <element signature="e#274#275#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="176">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Day_5/DP.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        <state relative-caret-position="198">
+          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#272#273#0" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="e#445#446#0" expanded="true" />
-            <element signature="e#536#537#0" expanded="true" />
-            <element signature="e#615#616#0" expanded="true" />
-            <element signature="e#706#707#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Day_5/MultipleDataPrvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -760,7 +654,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/Day_5/DataProviderWithExcel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
-          <caret line="14" column="43" lean-forward="true" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+          <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
           <folding>
             <element signature="e#3001#3002#0" expanded="true" />
             <element signature="e#3038#3039#0" expanded="true" />
@@ -768,23 +662,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testNG.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Day_5/DPWithMethodParameter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-25">
-          <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        <state relative-caret-position="66">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Day_5/ThirdTestNGExample.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/reflect/Method.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        <state relative-caret-position="3300">
+          <caret line="192" column="18" selection-start-line="192" selection-start-column="18" selection-end-line="192" selection-end-column="18" />
+          <folding>
+            <element signature="e#6222#6223#0" expanded="true" />
+            <element signature="e#6249#6250#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Day_5/TestNGDemoClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
+        <state relative-caret-position="22">
           <caret line="43" column="21" lean-forward="true" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
           <folding>
             <element signature="e#137#138#0" expanded="true" />
@@ -795,6 +696,131 @@
             <element signature="e#1064#1065#0" expanded="true" />
             <element signature="e#1120#1121#0" expanded="true" />
             <element signature="e#1180#1181#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Day_4/TestNGDemoClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="33" column="19" lean-forward="true" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+          <folding>
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+            <element signature="e#605#606#0" expanded="true" />
+            <element signature="e#665#666#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Day_4/RunnerClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="14" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Day_4/FirstTestNGExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Day_6/HandleDragAndDrop.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/Day_6/HandlingLinks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Day_6/HandlingTableWithPagination.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Day_6/HandlingLists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Day_6/HandleDragAndDropNewSite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="17" column="98" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Day_6/HandleDragAndDropSeleniumEasy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="35" column="27" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Day_6/HandlingListsMultipleSelect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Day_4/SecondTestNGExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Day_2/Scenario_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Day_4/functionClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="37" selection-start-line="36" selection-start-column="8" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#verfiySummation#0;class#functionClass#0" />
+            <element signature="method#verifyTableRecordFilter#0;class#functionClass#0" />
+            <element signature="e#3055#3098#0" />
+            <element signature="e#3130#3174#0" />
+            <element signature="method#verifyCheckBoxDemo#0;class#functionClass#0" />
+            <element signature="method#ListboxDemo#0;class#functionClass#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Day_6/HandleDragDropExample3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="25" column="33" lean-forward="true" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
