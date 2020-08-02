@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="13515" started-at="2020-08-02T15:34:51 IST" finished-at="2020-08-02T15:35:05 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="13515" started-at="2020-08-02T15:34:51 IST" finished-at="2020-08-02T15:35:05 IST">
+      <class name="Day_5.TestNGDemoClass">
+        <test-method status="PASS" signature="TestBeforeClass()[pri:0, instance:Day_5.TestNGDemoClass@3fee9989]" name="TestBeforeClass" is-config="true" duration-ms="2" started-at="2020-08-02T15:35:05 IST" finished-at="2020-08-02T15:35:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestBeforeClass -->
+        <test-method status="PASS" signature="TestBeforeTest()[pri:0, instance:Day_5.TestNGDemoClass@3fee9989]" name="TestBeforeTest" is-config="true" duration-ms="1" started-at="2020-08-02T15:35:05 IST" finished-at="2020-08-02T15:35:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestBeforeTest -->
+        <test-method status="PASS" signature="TestdemoExecution()[pri:1, instance:Day_5.TestNGDemoClass@3fee9989]" name="TestdemoExecution" duration-ms="1" started-at="2020-08-02T15:35:05 IST" finished-at="2020-08-02T15:35:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestdemoExecution -->
+        <test-method status="PASS" signature="TestAfterTest()[pri:0, instance:Day_5.TestNGDemoClass@3fee9989]" name="TestAfterTest" is-config="true" duration-ms="2" started-at="2020-08-02T15:35:05 IST" finished-at="2020-08-02T15:35:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestAfterTest -->
+        <test-method status="PASS" signature="TestBeforeTest()[pri:0, instance:Day_5.TestNGDemoClass@3fee9989]" name="TestBeforeTest" is-config="true" duration-ms="1" started-at="2020-08-02T15:35:05 IST" finished-at="2020-08-02T15:35:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestBeforeTest -->
+        <test-method status="PASS" signature="TestdemoExecution1()[pri:2, instance:Day_5.TestNGDemoClass@3fee9989]" name="TestdemoExecution1" duration-ms="1" started-at="2020-08-02T15:35:05 IST" finished-at="2020-08-02T15:35:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestdemoExecution1 -->
+        <test-method status="PASS" signature="TestAfterTest()[pri:0, instance:Day_5.TestNGDemoClass@3fee9989]" name="TestAfterTest" is-config="true" duration-ms="1" started-at="2020-08-02T15:35:05 IST" finished-at="2020-08-02T15:35:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestAfterTest -->
+        <test-method status="PASS" signature="TestBeforeTest()[pri:0, instance:Day_5.TestNGDemoClass@3fee9989]" name="TestBeforeTest" is-config="true" duration-ms="1" started-at="2020-08-02T15:35:05 IST" finished-at="2020-08-02T15:35:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestBeforeTest -->
+        <test-method status="PASS" signature="TestdemoExecution4()[pri:3, instance:Day_5.TestNGDemoClass@3fee9989]" name="TestdemoExecution4" duration-ms="0" started-at="2020-08-02T15:35:05 IST" finished-at="2020-08-02T15:35:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestdemoExecution4 -->
+        <test-method status="PASS" signature="TestAfterTest()[pri:0, instance:Day_5.TestNGDemoClass@3fee9989]" name="TestAfterTest" is-config="true" duration-ms="1" started-at="2020-08-02T15:35:05 IST" finished-at="2020-08-02T15:35:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestAfterTest -->
+        <test-method status="PASS" signature="TestBeforeTest()[pri:0, instance:Day_5.TestNGDemoClass@3fee9989]" name="TestBeforeTest" is-config="true" duration-ms="1" started-at="2020-08-02T15:35:05 IST" finished-at="2020-08-02T15:35:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestBeforeTest -->
+        <test-method status="PASS" signature="TestdemoExecution3()[pri:4, instance:Day_5.TestNGDemoClass@3fee9989]" name="TestdemoExecution3" duration-ms="1" started-at="2020-08-02T15:35:05 IST" finished-at="2020-08-02T15:35:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestdemoExecution3 -->
+        <test-method status="PASS" signature="TestAfterTest()[pri:0, instance:Day_5.TestNGDemoClass@3fee9989]" name="TestAfterTest" is-config="true" duration-ms="1" started-at="2020-08-02T15:35:05 IST" finished-at="2020-08-02T15:35:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestAfterTest -->
+        <test-method status="PASS" signature="TestBeforeTest()[pri:0, instance:Day_5.TestNGDemoClass@3fee9989]" name="TestBeforeTest" is-config="true" duration-ms="1" started-at="2020-08-02T15:35:05 IST" finished-at="2020-08-02T15:35:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestBeforeTest -->
+        <test-method status="PASS" signature="TestdemoExecution6()[pri:5, instance:Day_5.TestNGDemoClass@3fee9989]" name="TestdemoExecution6" duration-ms="1" started-at="2020-08-02T15:35:05 IST" finished-at="2020-08-02T15:35:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestdemoExecution6 -->
+        <test-method status="PASS" signature="TestAfterTest()[pri:0, instance:Day_5.TestNGDemoClass@3fee9989]" name="TestAfterTest" is-config="true" duration-ms="0" started-at="2020-08-02T15:35:05 IST" finished-at="2020-08-02T15:35:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestAfterTest -->
+        <test-method status="PASS" signature="TestAfterClass()[pri:0, instance:Day_5.TestNGDemoClass@3fee9989]" name="TestAfterClass" is-config="true" duration-ms="0" started-at="2020-08-02T15:35:05 IST" finished-at="2020-08-02T15:35:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestAfterClass -->
+      </class> <!-- Day_5.TestNGDemoClass -->
+      <class name="Day_5.TestNgAdvanceExample">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:Day_5.TestNgAdvanceExample@59ec2012]" name="beforeSuite" is-config="true" duration-ms="24" started-at="2020-08-02T15:34:51 IST" finished-at="2020-08-02T15:34:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="setWEbdriver()[pri:0, instance:Day_5.TestNgAdvanceExample@59ec2012]" name="setWEbdriver" is-config="true" duration-ms="9112" started-at="2020-08-02T15:34:51 IST" finished-at="2020-08-02T15:35:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setWEbdriver -->
+        <test-method status="PASS" signature="runTest()[pri:0, instance:Day_5.TestNgAdvanceExample@59ec2012]" name="runTest" duration-ms="0" started-at="2020-08-02T15:35:00 IST" finished-at="2020-08-02T15:35:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runTest -->
+        <test-method status="PASS" signature="closeWEbdriver()[pri:0, instance:Day_5.TestNgAdvanceExample@59ec2012]" name="closeWEbdriver" is-config="true" duration-ms="4305" started-at="2020-08-02T15:35:00 IST" finished-at="2020-08-02T15:35:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWEbdriver -->
+        <test-method status="PASS" signature="AfterSuite()[pri:0, instance:Day_5.TestNgAdvanceExample@59ec2012]" name="AfterSuite" is-config="true" duration-ms="0" started-at="2020-08-02T15:35:05 IST" finished-at="2020-08-02T15:35:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterSuite -->
+      </class> <!-- Day_5.TestNgAdvanceExample -->
+      <class name="Day_4.TestNGDemoClass">
+        <test-method status="PASS" signature="TestBeforeClass()[pri:0, instance:Day_4.TestNGDemoClass@4cf777e8]" name="TestBeforeClass" is-config="true" duration-ms="0" started-at="2020-08-02T15:34:51 IST" finished-at="2020-08-02T15:34:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestBeforeClass -->
+        <test-method status="PASS" signature="TestBeforeTest()[pri:0, instance:Day_4.TestNGDemoClass@4cf777e8]" name="TestBeforeTest" is-config="true" duration-ms="0" started-at="2020-08-02T15:34:51 IST" finished-at="2020-08-02T15:34:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestBeforeTest -->
+        <test-method status="PASS" signature="TestdemoExecution()[pri:0, instance:Day_4.TestNGDemoClass@4cf777e8]" name="TestdemoExecution" duration-ms="1" started-at="2020-08-02T15:34:51 IST" finished-at="2020-08-02T15:34:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestdemoExecution -->
+        <test-method status="PASS" signature="TestAfterTest()[pri:0, instance:Day_4.TestNGDemoClass@4cf777e8]" name="TestAfterTest" is-config="true" duration-ms="0" started-at="2020-08-02T15:34:51 IST" finished-at="2020-08-02T15:34:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestAfterTest -->
+        <test-method status="PASS" signature="TestBeforeTest()[pri:0, instance:Day_4.TestNGDemoClass@4cf777e8]" name="TestBeforeTest" is-config="true" duration-ms="1" started-at="2020-08-02T15:34:51 IST" finished-at="2020-08-02T15:34:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestBeforeTest -->
+        <test-method status="PASS" signature="TestdemoExecution1()[pri:0, instance:Day_4.TestNGDemoClass@4cf777e8]" name="TestdemoExecution1" duration-ms="0" started-at="2020-08-02T15:34:51 IST" finished-at="2020-08-02T15:34:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestdemoExecution1 -->
+        <test-method status="PASS" signature="TestAfterTest()[pri:0, instance:Day_4.TestNGDemoClass@4cf777e8]" name="TestAfterTest" is-config="true" duration-ms="0" started-at="2020-08-02T15:34:51 IST" finished-at="2020-08-02T15:34:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestAfterTest -->
+        <test-method status="PASS" signature="TestBeforeTest()[pri:0, instance:Day_4.TestNGDemoClass@4cf777e8]" name="TestBeforeTest" is-config="true" duration-ms="1" started-at="2020-08-02T15:34:51 IST" finished-at="2020-08-02T15:34:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestBeforeTest -->
+        <test-method status="PASS" signature="TestdemoExecution3()[pri:0, instance:Day_4.TestNGDemoClass@4cf777e8]" name="TestdemoExecution3" duration-ms="0" started-at="2020-08-02T15:34:51 IST" finished-at="2020-08-02T15:34:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestdemoExecution3 -->
+        <test-method status="PASS" signature="TestAfterTest()[pri:0, instance:Day_4.TestNGDemoClass@4cf777e8]" name="TestAfterTest" is-config="true" duration-ms="1" started-at="2020-08-02T15:34:51 IST" finished-at="2020-08-02T15:34:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestAfterTest -->
+        <test-method status="PASS" signature="TestAfterClass()[pri:0, instance:Day_4.TestNGDemoClass@4cf777e8]" name="TestAfterClass" is-config="true" duration-ms="1" started-at="2020-08-02T15:34:51 IST" finished-at="2020-08-02T15:34:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestAfterClass -->
+      </class> <!-- Day_4.TestNGDemoClass -->
+      <class name="Day_5.ParallelMethodTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Day_5.ParallelMethodTest@2f686d1f]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-08-02T15:34:51 IST" finished-at="2020-08-02T15:34:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testMethodsOne()[pri:0, instance:Day_5.ParallelMethodTest@2f686d1f]" name="testMethodsOne" duration-ms="1" started-at="2020-08-02T15:34:51 IST" finished-at="2020-08-02T15:34:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethodsOne -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Day_5.ParallelMethodTest@2f686d1f]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-08-02T15:34:51 IST" finished-at="2020-08-02T15:34:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Day_5.ParallelMethodTest@2f686d1f]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-08-02T15:34:51 IST" finished-at="2020-08-02T15:34:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testMethodsTwo()[pri:0, instance:Day_5.ParallelMethodTest@2f686d1f]" name="testMethodsTwo" duration-ms="0" started-at="2020-08-02T15:34:51 IST" finished-at="2020-08-02T15:34:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethodsTwo -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Day_5.ParallelMethodTest@2f686d1f]" name="afterMethod" is-config="true" duration-ms="2" started-at="2020-08-02T15:34:51 IST" finished-at="2020-08-02T15:34:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Day_5.ParallelMethodTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

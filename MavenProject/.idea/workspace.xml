@@ -2,15 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b76d781f-3528-4e62-b45e-c567605604d2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day_6/HandleDragAndDropNewSite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day_6/HandleDragAndDropSeleniumEasy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day_6/HandleDragDropExample3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day_6/HandlingLinks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day_6/HandlingLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day_6/HandlingListsMultipleSelect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day_6/HandlingTableWithPagination.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day_6.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_6.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day_7/HandlingException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day_7/Selenium_Explicit_Wait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day_7/Selenium_FluentWaits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day_7.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_7.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day_6/HandlingLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Day_6/HandlingLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Day_2/Scenario_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day_2/Scenario_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Day_2/Scenario_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day_2/Scenario_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Day_2/Scenario_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day_2/Scenario_3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Day_3/CheckBoxDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day_3/CheckBoxDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Day_3/ListBoxDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day_3/ListBoxDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Day_3/RadioButtonsDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day_3/RadioButtonsDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Day_4/FirstTestNGExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day_4/FirstTestNGExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Day_4/RunnerClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day_4/RunnerClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Day_4/SecondTestNGExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day_4/SecondTestNGExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Day_4/TestNGDemoClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day_4/TestNGDemoClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Day_4/ThirdTestNGExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day_4/ThirdTestNGExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Day_4/functionClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day_4/functionClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Day_5/BasicDataProviderExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day_5/BasicDataProviderExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Day_5/DP.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day_5/DP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Day_5/DPWithMethodParameter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day_5/DPWithMethodParameter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Day_5/DataProviderVariant.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day_5/DataProviderVariant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Day_5/DataProviderWithExcel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day_5/DataProviderWithExcel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Day_5/GroupsExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day_5/GroupsExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Day_5/InheritedDataProvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day_5/InheritedDataProvider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Day_5/MultipleDataPrvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day_5/MultipleDataPrvider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Day_5/ParallelMethodTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day_5/ParallelMethodTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Day_5/TestNGDemoClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day_5/TestNGDemoClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Day_5/TestNgAdvanceExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day_5/TestNgAdvanceExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Day_5/ThirdTestNGExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day_5/ThirdTestNGExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Day_6/HandleDragAndDropNewSite.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day_6/HandleDragAndDropNewSite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Day_6/HandleDragAndDropSeleniumEasy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day_6/HandleDragAndDropSeleniumEasy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Day_6/HandleDragDropExample3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day_6/HandleDragDropExample3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Day_6/HandlingLinks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day_6/HandlingLinks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Day_6/HandlingLists.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day_6/HandlingLists.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Day_6/HandlingListsMultipleSelect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day_6/HandlingListsMultipleSelect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Day_6/HandlingTableWithPagination.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day_6/HandlingTableWithPagination.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SeleniumFirstClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SeleniumFirstClass.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -26,112 +56,100 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Day_6/HandlingLinks.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Day_7/Selenium_Implicit_Waits.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="15" column="53" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/concurrent/TimeUnit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-533">
+              <caret line="85" selection-start-line="74" selection-start-column="4" selection-end-line="85" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Day_7/Selenium_FluentWaits.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="132">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Day_6/HandlingTableWithPagination.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Day_6/HandlingLists.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="638">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Day_6/HandleDragAndDropNewSite.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="17" column="98" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="98" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Day_6/HandleDragAndDropSeleniumEasy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="35" column="27" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="27" />
+              <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Day_6/HandleDragDropExample3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="25" column="33" lean-forward="true" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Day_6/HandlingListsMultipleSelect.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Day_4/SecondTestNGExample.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
-              <caret line="11" column="16" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="16" />
+              <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Day_2/Scenario_1.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Day_7/Selenium_Explicit_Wait.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="95" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Day_4/functionClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="37" selection-start-line="36" selection-start-column="8" selection-end-line="37" />
+            <state relative-caret-position="268">
+              <caret line="40" column="58" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="58" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#verfiySummation#0;class#functionClass#0" />
-                <element signature="method#verifyTableRecordFilter#0;class#functionClass#0" />
-                <element signature="e#3055#3098#0" />
-                <element signature="e#3130#3174#0" />
-                <element signature="method#verifyCheckBoxDemo#0;class#functionClass#0" />
-                <element signature="method#ListboxDemo#0;class#functionClass#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59-sources.jar!/org/openqa/selenium/support/ui/ExpectedConditions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="42" column="33" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59-sources.jar!/org/openqa/selenium/support/ui/WebDriverWait.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59-sources.jar!/org/openqa/selenium/support/ui/FluentWait.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="413">
+              <caret line="70" column="8" selection-start-line="70" selection-start-column="8" selection-end-line="70" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Day_7/HandlingException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="16" column="42" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59-sources.jar!/org/openqa/selenium/WebDriver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2019">
+              <caret line="176" column="16" selection-start-line="176" selection-start-column="10" selection-end-line="176" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -181,14 +199,18 @@
         <option value="$PROJECT_DIR$/testNG.xml" />
         <option value="$PROJECT_DIR$/src/test/java/Day_5/ThirdTestNGExample.java" />
         <option value="$PROJECT_DIR$/src/test/java/Day_5/TestNGDemoClass.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Day_6/HandlingLinks.java" />
         <option value="$PROJECT_DIR$/src/test/java/Day_6/HandlingTableWithPagination.java" />
         <option value="$PROJECT_DIR$/src/test/java/Day_6/HandlingListsMultipleSelect.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Day_6/HandlingLists.java" />
         <option value="$PROJECT_DIR$/src/test/java/Day_6/HandleDragAndDrop.java" />
         <option value="$PROJECT_DIR$/src/test/java/Day_6/HandleDragAndDropNewSite.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Day_6/HandleDragAndDropSeleniumEasy.java" />
         <option value="$PROJECT_DIR$/src/test/java/Day_6/HandleDragDropExample3.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Day_6/HandlingLinks.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Day_6/HandlingLists.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Day_6/HandleDragAndDropSeleniumEasy.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Day_7/HandlingException.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Day_7/Selenium_Implicit_Waits.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Day_7/Selenium_Explicit_Wait.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Day_7/Selenium_FluentWaits.java" />
       </list>
     </option>
   </component>
@@ -227,6 +249,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -236,41 +260,12 @@
             </path>
             <path>
               <item name="MavenProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MavenProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MavenProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MavenProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MavenProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MavenProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MavenProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MavenProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Day_6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MavenProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MavenProject" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -300,30 +295,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HandleDragDropExample3">
-    <configuration name="HandleDragDropExample3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day_6.HandleDragDropExample3" />
+  <component name="RunManager" selected="TestNG.Selenium_FluentWaits">
+    <configuration name="HandlingException" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MavenProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day_6.*" />
+          <option name="PATTERN" value="Day_7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HandleDragAndDropNewSite" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="MavenProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day_6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Day_6" />
-      <option name="MAIN_CLASS_NAME" value="Day_6.HandleDragAndDropNewSite" />
+      <option name="PACKAGE_NAME" value="Day_7" />
+      <option name="MAIN_CLASS_NAME" value="Day_7.HandlingException" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -331,17 +313,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HandleDragAndDropNewSite.HandleDragAndDrop" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="HandlingException.ImplicitWaitExample" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MavenProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day_6.*" />
+          <option name="PATTERN" value="Day_7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Day_6" />
-      <option name="MAIN_CLASS_NAME" value="Day_6.HandleDragAndDropNewSite" />
-      <option name="METHOD_NAME" value="HandleDragAndDrop" />
+      <option name="PACKAGE_NAME" value="Day_7" />
+      <option name="MAIN_CLASS_NAME" value="Day_7.HandlingException" />
+      <option name="METHOD_NAME" value="ImplicitWaitExample" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -349,17 +331,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HandleDragAndDropSeleniumEasy.HandleDragAndDrop" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Selenium_Explicit_Wait.explicitWaits" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MavenProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day_6.*" />
+          <option name="PATTERN" value="Day_7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Day_6" />
-      <option name="MAIN_CLASS_NAME" value="Day_6.HandleDragAndDropSeleniumEasy" />
-      <option name="METHOD_NAME" value="HandleDragAndDrop" />
+      <option name="PACKAGE_NAME" value="Day_7" />
+      <option name="MAIN_CLASS_NAME" value="Day_7.Selenium_Explicit_Wait" />
+      <option name="METHOD_NAME" value="explicitWaits" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -367,17 +349,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HandleDragAndDrop.HandleDragAndDrop" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Selenium_FluentWaits" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MavenProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day_6.*" />
+          <option name="PATTERN" value="Day_7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Day_6" />
-      <option name="MAIN_CLASS_NAME" value="Day_6.HandleDragAndDrop" />
-      <option name="METHOD_NAME" value="HandleDragAndDrop" />
+      <option name="PACKAGE_NAME" value="Day_7" />
+      <option name="MAIN_CLASS_NAME" value="Day_7.Selenium_FluentWaits" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Selenium_FluentWaits.FluentWaits (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MavenProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day_7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Day_7" />
+      <option name="MAIN_CLASS_NAME" value="Day_7.Selenium_FluentWaits" />
+      <option name="METHOD_NAME" value="FluentWaits" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -387,11 +386,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HandleDragDropExample3" />
-        <item itemvalue="TestNG.HandleDragAndDropSeleniumEasy.HandleDragAndDrop" />
-        <item itemvalue="TestNG.HandleDragAndDropNewSite.HandleDragAndDrop" />
-        <item itemvalue="TestNG.HandleDragAndDrop.HandleDragAndDrop" />
-        <item itemvalue="TestNG.HandleDragAndDropNewSite" />
+        <item itemvalue="TestNG.Selenium_FluentWaits" />
+        <item itemvalue="TestNG.HandlingException" />
+        <item itemvalue="TestNG.HandlingException.ImplicitWaitExample" />
+        <item itemvalue="TestNG.Selenium_FluentWaits.FluentWaits (1)" />
+        <item itemvalue="TestNG.Selenium_Explicit_Wait.explicitWaits" />
       </list>
     </recent_temporary>
   </component>
@@ -406,42 +405,41 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="HandleDragAndDropSeleniumEasy_HandleDragAndDrop - 2020.07.18 at 17h 52m 58s.xml">
-      <configuration name="HandleDragAndDropSeleniumEasy.HandleDragAndDrop" configurationId="TestNG" />
+    <history-entry file="Selenium_Explicit_Wait_explicitWaits - 2020.07.26 at 10h 11m 18s.xml">
+      <configuration name="Selenium_Explicit_Wait.explicitWaits" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HandleDragAndDropSeleniumEasy_HandleDragAndDrop - 2020.07.18 at 18h 00m 43s.xml">
-      <configuration name="HandleDragAndDropSeleniumEasy.HandleDragAndDrop" configurationId="TestNG" />
+    <history-entry file="Selenium_FluentWaits_FluentWaits_(1) - 2020.07.26 at 10h 17m 07s.xml">
+      <configuration name="Selenium_FluentWaits.FluentWaits (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HandleDragAndDropSeleniumEasy_HandleDragAndDrop - 2020.07.18 at 18h 03m 18s.xml">
-      <configuration name="HandleDragAndDropSeleniumEasy.HandleDragAndDrop" configurationId="TestNG" />
+    <history-entry file="Selenium_FluentWaits - 2020.07.26 at 10h 32m 16s.xml">
+      <configuration name="Selenium_FluentWaits" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HandleDragAndDropSeleniumEasy - 2020.07.18 at 18h 05m 10s.xml">
-      <configuration name="HandleDragAndDropSeleniumEasy" configurationId="TestNG" />
+    <history-entry file="HandlingException_ImplicitWaitExample - 2020.07.26 at 10h 49m 44s.xml">
+      <configuration name="HandlingException.ImplicitWaitExample" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HandleDragAndDropNewSite - 2020.07.18 at 18h 10m 02s.xml">
-      <configuration name="HandleDragAndDropNewSite" configurationId="TestNG" />
+    <history-entry file="HandlingException_ImplicitWaitExample - 2020.07.26 at 10h 52m 45s.xml">
+      <configuration name="HandlingException.ImplicitWaitExample" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HandleDragAndDropNewSite_HandleDragAndDrop - 2020.07.18 at 18h 11m 26s.xml">
-      <configuration name="HandleDragAndDropNewSite.HandleDragAndDrop" configurationId="TestNG" />
+    <history-entry file="HandlingException_ImplicitWaitExample - 2020.07.26 at 10h 54m 28s.xml">
+      <configuration name="HandlingException.ImplicitWaitExample" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HandleDragAndDropSeleniumEasy_HandleDragAndDrop - 2020.07.18 at 18h 12m 37s.xml">
-      <configuration name="HandleDragAndDropSeleniumEasy.HandleDragAndDrop" configurationId="TestNG" />
+    <history-entry file="HandlingException_ImplicitWaitExample - 2020.07.26 at 10h 55m 04s.xml">
+      <configuration name="HandlingException.ImplicitWaitExample" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HandleDragAndDrop_HandleDragAndDrop - 2020.07.18 at 18h 14m 00s.xml">
-      <configuration name="HandleDragAndDrop.HandleDragAndDrop" configurationId="TestNG" />
+    <history-entry file="HandlingException - 2020.08.02 at 14h 55m 00s.xml">
+      <configuration name="HandlingException" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HandleDragAndDropNewSite_HandleDragAndDrop - 2020.07.18 at 18h 18m 19s.xml">
-      <configuration name="HandleDragAndDropNewSite.HandleDragAndDrop" configurationId="TestNG" />
+    <history-entry file="HandlingException - 2020.08.02 at 15h 00m 37s.xml">
+      <configuration name="HandlingException" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HandleDragAndDropSeleniumEasy_HandleDragAndDrop - 2020.07.18 at 18h 22m 33s.xml">
-      <configuration name="HandleDragAndDropSeleniumEasy.HandleDragAndDrop" configurationId="TestNG" />
+    <history-entry file="Selenium_FluentWaits - 2020.08.02 at 15h 17m 16s.xml">
+      <configuration name="Selenium_FluentWaits" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27094594" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29324323" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -549,13 +547,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
@@ -734,20 +725,17 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Day_6/HandleDragAndDrop.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/Day_6/HandlingLinks.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Day_6/HandleDragAndDropSeleniumEasy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="44">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="79" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Day_6/HandlingTableWithPagination.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Day_6/HandleDragDropExample3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="334">
+          <caret line="22" column="67" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="67" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -756,52 +744,58 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Day_6/HandlingLists.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="-88">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Day_6/HandleDragAndDropNewSite.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Day_6/HandlingTableWithPagination.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="17" column="98" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="98" />
+        <state relative-caret-position="352">
+          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Day_6/HandleDragAndDropSeleniumEasy.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Day_6/HandlingLinks.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="35" column="27" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="27" />
+        <state relative-caret-position="462">
+          <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Day_6/HandlingListsMultipleSelect.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+        <state relative-caret-position="132">
+          <caret line="28" lean-forward="true" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Day_4/SecondTestNGExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
+        <state relative-caret-position="22">
           <caret line="11" column="16" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Day_2/Scenario_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
+        <state relative-caret-position="312">
           <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="95" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Day_4/functionClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
+        <state relative-caret-position="114">
           <caret line="37" selection-start-line="36" selection-start-column="8" selection-end-line="37" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -815,13 +809,104 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Day_6/HandleDragDropExample3.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Day_7.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/Day_6/HandleDragAndDropNewSite.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="25" column="33" lean-forward="true" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+        <state relative-caret-position="220">
+          <caret line="17" column="98" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59-sources.jar!/org/openqa/selenium/ElementClickInterceptedException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="61" selection-start-line="5" selection-start-column="61" selection-end-line="5" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59-sources.jar!/org/openqa/selenium/JavascriptExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1232">
+          <caret line="28" column="35" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Day_7/HandlingException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="16" column="42" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59-sources.jar!/org/openqa/selenium/WebDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2019">
+          <caret line="176" column="16" selection-start-line="176" selection-start-column="10" selection-end-line="176" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/concurrent/TimeUnit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-533">
+          <caret line="85" selection-start-line="74" selection-start-column="4" selection-end-line="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59-sources.jar!/org/openqa/selenium/support/ui/WebDriverWait.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59-sources.jar!/org/openqa/selenium/support/ui/FluentWait.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="70" column="8" selection-start-line="70" selection-start-column="8" selection-end-line="70" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59-sources.jar!/org/openqa/selenium/support/ui/ExpectedConditions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="42" column="33" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Day_7/Selenium_Implicit_Waits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="15" column="53" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Day_7/Selenium_Explicit_Wait.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="40" column="58" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Day_7/Selenium_FluentWaits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
         </state>
       </provider>
     </entry>
